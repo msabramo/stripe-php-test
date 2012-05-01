@@ -1,0 +1,12 @@
+{
+    "name": "msabramo/stripe-php-test",
+    "require": {
+        "stripe/stripe-php": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Marc Abramowitz",
+            "email": "marc@marc-abramowitz.com"
+        }
+    ]
+}

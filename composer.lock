@@ -1,0 +1,14 @@
+{
+    "hash": "6430856332b3a6026e71a0ea39969fd4",
+    "packages": [
+        {
+            "package": "stripe/stripe-php",
+            "version": "dev-master",
+            "source-reference": "dbeecaa56f6f56cee173c582b3a47ed30f3c56e8"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ]
+}
